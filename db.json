@@ -1,0 +1,61 @@
+{
+    "autores": [
+      {
+        "id":"046000111",
+        "contraseña": "Grao000"
+      },
+      {
+        "id": "222",
+        "contraseña": "Grao222"
+      }
+    
+    ],
+    "servicios":[
+      {
+        "id": "046000111",
+        "codigo":"1111",
+        "nombreCliente" : "Manolo Jimenez",
+        "direccion": "Calle de Alcalá, 50, 28014 Madrid, España",
+        "telefono": "644411261",
+        "cobrarAlCliente": false,
+        "fechaServicio": " " ,
+        "codBarras": "460001110001",
+        "incidencia": false,
+        "incidenciaText": "" ,
+        "incidenciaObservarciones": "",
+        "finalizado": false ,
+        "imagenAsStringBase64": ""
+      },
+      {
+        "id": "046000112",
+        "codigo": "1112",
+        "nombreCliente": "Roberto Carlos",
+        "direccion": "Calle Gran Vía, 20, 28013 Madrid, España",
+        "telefono": "612345678",
+        "cobrarAlCliente": true,
+        "fechaServicio": "2024-05-25",
+        "codBarras": "460001110002",
+        "incidencia": true,
+        "incidenciaText": "Producto dañado",
+        "incidenciaObservarciones": "Caja rota",
+        "finalizado": false,
+        "imagenAsStringBase64": ""
+      },
+      {
+        "id": "046000113",
+        "codigo": "1113",
+        "nombreCliente": "Mbappe",
+        "direccion": "Snatiago Bernabeu",
+        "telefono": "655432189",
+        "cobrarAlCliente": true,
+        "fechaServicio": "2024-05-26",
+        "codBarras": "460001110003",
+        "incidencia": true,
+        "incidenciaText": "Retraso en la entrega",
+        "incidenciaObservarciones": "Tráfico intenso en la zona",
+        "finalizado": false,
+        "imagenAsStringBase64": ""
+      }
+    ]
+  
+  }
